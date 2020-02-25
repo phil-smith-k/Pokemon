@@ -1,0 +1,11 @@
+C:\Users\pksmi\Documents\PersonalProjects\Pokemon\Pokemon\PokeLibrary\bin\Debug\PokeLibrary.dll
+C:\Users\pksmi\Documents\PersonalProjects\Pokemon\Pokemon\PokeLibrary\bin\Debug\PokeLibrary.pdb
+C:\Users\pksmi\Documents\PersonalProjects\Pokemon\Pokemon\PokeLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pksmi\Documents\PersonalProjects\Pokemon\Pokemon\PokeLibrary\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\pksmi\Documents\PersonalProjects\Pokemon\Pokemon\PokeLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pksmi\Documents\PersonalProjects\Pokemon\Pokemon\PokeLibrary\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\pksmi\Documents\PersonalProjects\Pokemon\Pokemon\PokeLibrary\obj\Debug\PokeLibrary.csprojAssemblyReference.cache
+C:\Users\pksmi\Documents\PersonalProjects\Pokemon\Pokemon\PokeLibrary\obj\Debug\PokeLibrary.csproj.CopyComplete
+C:\Users\pksmi\Documents\PersonalProjects\Pokemon\Pokemon\PokeLibrary\obj\Debug\PokeLibrary.dll
+C:\Users\pksmi\Documents\PersonalProjects\Pokemon\Pokemon\PokeLibrary\obj\Debug\PokeLibrary.pdb
+C:\Users\pksmi\Documents\PersonalProjects\Pokemon\Pokemon\PokeLibrary\bin\Debug\PokeLibrary.dll.config
